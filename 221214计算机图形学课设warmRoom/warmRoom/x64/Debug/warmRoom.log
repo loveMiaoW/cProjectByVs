@@ -1,0 +1,16 @@
+﻿  main.cpp
+E:\计算机图形学\warmRoom\main.cpp(43,66): warning C4311: “类型强制转换”: 从“MCI_OPEN_PARMS *”到“DWORD”的指针截断
+E:\计算机图形学\warmRoom\main.cpp(43,66): warning C4302: “类型强制转换”: 从“MCI_OPEN_PARMS *”到“DWORD”截断
+E:\计算机图形学\warmRoom\main.cpp(51,64): warning C4311: “类型强制转换”: 从“MCI_PLAY_PARMS *”到“DWORD”的指针截断
+E:\计算机图形学\warmRoom\main.cpp(51,64): warning C4302: “类型强制转换”: 从“MCI_PLAY_PARMS *”到“DWORD”截断
+E:\计算机图形学\warmRoom\main.cpp(108,31): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+E:\计算机图形学\warmRoom\main.cpp(108,35): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+E:\计算机图形学\warmRoom\main.cpp(108,42): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+E:\计算机图形学\warmRoom\main.cpp(250,6): warning C4129: “|”: 不可识别的字符转义序列
+E:\计算机图形学\warmRoom\main.cpp(251,6): warning C4129: “|”: 不可识别的字符转义序列
+E:\计算机图形学\warmRoom\main.cpp(253,6): warning C4129: “ ”: 不可识别的字符转义序列
+E:\计算机图形学\warmRoom\main.cpp(412,33): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\计算机图形学\warmRoom\main.cpp(412,45): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\计算机图形学\warmRoom\main.cpp(415,18): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\计算机图形学\warmRoom\main.cpp(415,25): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+LINK : fatal error LNK1104: 无法打开文件“glut32.lib”

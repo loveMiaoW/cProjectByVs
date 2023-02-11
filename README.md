@@ -22,3 +22,8 @@
 
 ![](./img/04algorithmDegin.png)
 
+### 05计算机图形学课设warmRoom 221214
+
+![](./img/05warmRoomIn.png)
+
+![](./img/05warmRoomOut.png)

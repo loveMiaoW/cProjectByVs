@@ -1,0 +1,12 @@
+﻿  main.cpp
+E:\gitSpace\github\cProjectByVs\221214计算机图形学课设warmRoom\warmRoom\main.cpp(108,31): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+E:\gitSpace\github\cProjectByVs\221214计算机图形学课设warmRoom\warmRoom\main.cpp(108,35): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+E:\gitSpace\github\cProjectByVs\221214计算机图形学课设warmRoom\warmRoom\main.cpp(108,42): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+E:\gitSpace\github\cProjectByVs\221214计算机图形学课设warmRoom\warmRoom\main.cpp(265,6): warning C4129: “|”: 不可识别的字符转义序列
+E:\gitSpace\github\cProjectByVs\221214计算机图形学课设warmRoom\warmRoom\main.cpp(266,6): warning C4129: “|”: 不可识别的字符转义序列
+E:\gitSpace\github\cProjectByVs\221214计算机图形学课设warmRoom\warmRoom\main.cpp(268,6): warning C4129: “ ”: 不可识别的字符转义序列
+E:\gitSpace\github\cProjectByVs\221214计算机图形学课设warmRoom\warmRoom\main.cpp(472,33): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\gitSpace\github\cProjectByVs\221214计算机图形学课设warmRoom\warmRoom\main.cpp(472,45): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\gitSpace\github\cProjectByVs\221214计算机图形学课设warmRoom\warmRoom\main.cpp(475,18): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\gitSpace\github\cProjectByVs\221214计算机图形学课设warmRoom\warmRoom\main.cpp(475,25): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+  warmRoom.vcxproj -> E:\gitSpace\github\cProjectByVs\221214计算机图形学课设warmRoom\warmRoom\Debug\warmRoom.exe
