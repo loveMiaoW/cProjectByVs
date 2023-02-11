@@ -1,0 +1,13 @@
+﻿  card.cpp
+  cardUpDown.cpp
+  game.cpp
+D:\Code_data\vs_project\0701firstGameCardupdown\game.cpp(9,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\Code_data\vs_project\0701firstGameCardupdown\game.cpp(10,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\Code_data\vs_project\0701firstGameCardupdown\game.cpp(29,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\Code_data\vs_project\0701firstGameCardupdown\game.cpp(30,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\Code_data\vs_project\0701firstGameCardupdown\game.cpp(51,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\Code_data\vs_project\0701firstGameCardupdown\game.cpp(66,30): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  widget.cpp
+D:\Code_data\vs_project\0701firstGameCardupdown\widget.cpp(24,3): warning C4551: 缺少参数列表的函数调用
+  正在生成代码...
+  0701firstGameCardupdown.vcxproj -> D:\Code_data\vs_project\0701firstGameCardupdown\Debug\0701firstGameCardupdown.exe
