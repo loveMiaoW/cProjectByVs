@@ -1,0 +1,4 @@
+﻿  推箱子.cpp
+E:\gitSpace\推箱子\推箱子.cpp(191,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  
+D:\vs\vs\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1957,5): error MSB6006: “rc.exe”已退出，代码为 1。

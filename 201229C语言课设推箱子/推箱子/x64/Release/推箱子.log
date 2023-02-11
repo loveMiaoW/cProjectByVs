@@ -1,0 +1,7 @@
+﻿  推箱子.cpp
+E:\gitSpace\github\cProjectByVs\201229C语言课设推箱子\推箱子\推箱子.cpp(191,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  正在生成代码
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  推箱子.vcxproj -> E:\gitSpace\github\cProjectByVs\201229C语言课设推箱子\推箱子\x64\Release\推箱子.exe
