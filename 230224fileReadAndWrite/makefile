@@ -1,3 +1,8 @@
+readConfigInfo:readConfigInfo.o
+	gcc 06readConfigInfo.o -o readConfigInfo
+readConfigInfo.o:readConfigInfo.c
+	gcc -c readConfigInfo.c -o readConfigInfo.o
+
 sortFile:sortFile.o
 	gcc sortFile.o -o sortFile
 sortFile.o:05sortFile.c
@@ -19,13 +24,10 @@ myCp:myCp.o
 myCp.o:03myCp.c
 	gcc -c 03myCp.c -o myCp.o
 
-
-
 myCat:myCat.o
 	gcc myCat.o -o myCat
 myCat.o:01myCat.c
 	gcc -c 01myCat.c -o myCat.o
-
 
 clear:
 	rm -rf *.o

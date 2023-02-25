@@ -33,3 +33,21 @@
 >sortData.txt 未排序的数据
 >
 >sortOkData.txt 排完序的数据
+
+## 06读取配置文件信息
+
+>config.txt配置文件
+>
+>key:value
+
+## make
+
+```makefile
+make myCat
+make myCp
+make myClock
+make ...
+make clear //删除*.o文件
+```
+
+>myCat/myCp/myClock/calFile/sortFile/readConfigInfo
